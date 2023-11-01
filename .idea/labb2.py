@@ -21,7 +21,8 @@ TransitionMatrix = [
 
 
 #probability distribution [1/4, 1/4, 1/4, 1/4] uppgift h)
-
+#vhjklöä
+#fghjklöä'
 
 def pageRank (clicks):
     starting_page = "Tv"
