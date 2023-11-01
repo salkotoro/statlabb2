@@ -18,6 +18,8 @@ TransitionMatrix = [
             [1,  0,   0,   0],
             [1/2, 0,  1/2, 0]
 ]
+def sami (repository):
+    x=y
 
 
 #probability distribution [1/4, 1/4, 1/4, 1/4] uppgift h)
