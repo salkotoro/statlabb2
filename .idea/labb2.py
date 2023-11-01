@@ -20,7 +20,7 @@ TransitionMatrix = [
 ]
 #d ,dmfdmfdföfknfngld
 #jdbfbfhdub 
-
+TEST
 #probability distribution [1/4, 1/4, 1/4, 1/4] uppgift h)
 
 
